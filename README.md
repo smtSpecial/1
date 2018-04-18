@@ -1,4 +1,4 @@
-## Python으로 배우는 Machine Learning
+### Python으로 배우는 Machine Learning
 
 Python은 Pandas, numpy등 다양한 library를 제공하여 Big Data Analysis 의 대세 언어로 자리 자리잡았다.
 머신러닝 분야에서도 Scikit-learn(http://scikit-learn.org/stable/)은 머신러닝의 다양한 기법들을 library로 제공한다. 
