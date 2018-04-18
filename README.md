@@ -1,4 +1,4 @@
-## Let's learning machine learning
+## Let's learning machine learning 
 
 You can use the [editor on GitHub](https://github.com/smtSpecial/ml-python/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
